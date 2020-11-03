@@ -9,7 +9,7 @@
 ### Tela - enviar novo tópico:
 ![](/screenshots/screenshot3.png)
 
-### Tela - resumo invertido:
+### Tela - resumo extendido:
 ![](/screenshots/screenshot4.png)
 
 ### Tela - card de tópico expandido:
