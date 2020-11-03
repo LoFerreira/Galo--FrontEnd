@@ -3,14 +3,14 @@
 ## Projeto de implementação de HTML e CSS em um protótipo de uma tela preparado pela Galoá (Chuva Inc.)
 
 ### Tela inicial:
-![](/screenshots/screenshot)
-![](/screenshots/screenshot)
+![](/screenshots/screenshot1)
+![](/screenshots/screenshot2)
 
 ### Tela - enviar novo tópico:
-![](/screenshots/screenshot)
+![](/screenshots/screenshot3)
 
 ### Tela - resumo invertido:
-![](/screenshots/screenshot)
+![](/screenshots/screenshot4)
 
 ### Tela - card de tópico expandido:
-![](/screenshots/screenshot)
+![](/screenshots/screenshot5)
