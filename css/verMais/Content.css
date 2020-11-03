@@ -1,0 +1,392 @@
+.content {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    position: absolute;
+    width: 786px;
+    height: 54px;
+    left: 263px;
+    top: 88px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    color: #ED7839;
+}
+
+.video-apresentacao {
+    position: absolute;
+    width: 783px;
+    height: 439px;
+    left: 265px;
+    top: 161px;
+    background: rgba(141, 53, 6, 0.5);
+    border-radius: 3px;
+}
+
+.download {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    left: 1130px;
+    top: 88px;
+    background-color: #ED7839;
+    border-radius: 4px;
+}
+
+.download span {
+    position: absolute;
+    color: #FFFF;
+    top: 6px;
+    left: 35px;
+}
+
+.fa-download {
+    position: absolute;
+    top: 6px;
+    left: 8px;
+    color: #FFFF;
+}
+
+.star {
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    left: 1255px;
+    top: 88px;
+    background-color: #ED7839;
+    border-radius: 4px;
+}
+
+.fa-star {
+    position: absolute;
+    left: 6px;
+    top: 6px;
+    color: #FFFF;
+}
+
+.doi-img {
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    left: 1290px;
+    top: 88px;
+    background-color: #ED7839;
+    border-radius: 4px;
+}
+
+.doi-img img {
+    position: absolute;
+    top: 6px;
+    left: 5px;
+}
+
+.citacao {
+    position: absolute;
+    left: 1092px;
+    top: 131px;
+    color: #ED7839;
+}
+
+.detalhes {
+    position: absolute;
+    width: 242px;
+    height: 439px;
+    left: 1079px;
+    top: 161px;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.topo {
+    position: absolute;
+    width: 242px;
+    height: 45px;
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.topo span {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    font-size: 20px;
+    color: #4E4E4E;
+}
+
+.conteudo span {
+    position: absolute;
+    width: 212px;
+    height: 364px;
+    left: 15px;
+    top: 60px;
+    font-size: 15px;
+    color: #5C5C5C;
+    overflow: auto;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background: #F4F4F4;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #dad7d7;
+}
+
+.resumo {
+    position: absolute;
+    width: 1058px;
+    height: 310px;
+    left: 263px;
+    top: 630px;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.titulo {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    background: #FDF1EB;
+}
+
+.titulo span {
+    position: absolute;
+    left: 18px;
+    top: 9px;
+    font-size: 20px;
+    color: #4E4E4E;
+}
+
+.corpo {
+    position: absolute;
+    width: 1028px;
+    top: 60px;
+    left: 15px;
+    font-size: 14px;
+    color: #5C5C5C;
+}
+
+.corpo a {
+    position: absolute;
+    left: 595px;
+    top: 220px;
+    color: #ED7839;
+}
+
+.topicos {
+    position: absolute;
+    width: 1058px;
+    height: 680px;
+    left: 263px;
+    top: 955px;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.discussao {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    background: #FDF1EB;
+}
+
+.discussao span {
+    position: absolute;
+    left: 18px;
+    top: 9px;
+    font-size: 20px;
+    color: #4E4E4E;
+}
+
+.text1 {
+    position: absolute;
+    left: 324px;
+    top: 60px;
+    font-size: 18px;
+    color: #ED7839;
+}
+
+.imgs {
+    width: 50px;
+    height: 49px;
+}
+
+.img1 {
+    position: absolute;
+    left: 402px;
+    top: 109px;
+}
+
+.img2 {
+    position: absolute;
+    left: 505px;
+    top: 109px;
+}
+
+.img3 {
+    position: absolute;
+    left: 609px;
+    top: 109px;
+}
+
+.text2 {
+    position: absolute;
+    width: 626px;
+    height: 39px;
+    left: 216px;
+    top: 193px;
+    text-align: center;
+    font-size: 14px;
+    color: #595959;
+}
+
+.novo-topico {
+    position: absolute;
+    width: 133px;
+    height: 32px;
+    left: 463px;
+    top: 246px;
+    background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    border-radius: 4px;
+}
+
+.fa-plus {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 14px;
+    top: 8px;
+    color: #FFFF;
+}
+
+.novo-topico span {
+    position: absolute;
+    width: 83px;
+    height: 16px;
+    left: 37px;
+    top: 7px;
+    font-size: 15px;
+    color: #FFFF;
+}
+
+.divisor {
+    position: relative;
+    width: 1027px;
+    height: 0px;
+    left: 15px;
+    top: 263px;
+    border: 1px solid #E7E7E7;
+}
+
+.card-topicos {
+    position: absolute;
+    width: 1028px;
+    height: 148px;
+    top: 330px;
+    left: 15px;
+    border: 1px solid #E7E7E7;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+.card-header {
+    position: absolute;
+    top: 17px;
+    left: 24px;
+    font-size: 16px;
+    color: #ED7839;
+}
+
+.card-name {
+    position: absolute;
+    top: 40px;
+    left: 24px;
+    font-size: 12px;
+    color: #5C5C5C;
+}
+
+.card-body {
+    position: absolute;
+    width: 980px;
+    height: 35px;
+    top: 65px;
+    left: 24px;
+    font-size: 14px;
+    color: #4D4D4D;
+}
+
+.fa-ellipsis-v {
+    position: absolute;
+    width: 4px;
+    height: 18px;
+    top: 112px;
+    left: 24px;
+    color: #ED7839;
+}
+
+.favorito {
+    position: absolute;
+    width: 25px;
+    height: 19px;
+    top: 111px;
+    left: 43px;
+    background-color: #ED7839;
+    border-radius: 2px;
+}
+
+.heart {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 5.5px;
+    top: 2.5px;
+    color: #FFFF;
+}
+
+.footer-likes {
+    position: absolute;
+    font-size: 14px;
+    color: #757575;
+    top: 111px;
+    left: 85px;
+}
+
+.footer-answer {
+    position: absolute;
+    font-size: 14px;
+    color: #757575;
+    top: 111px;
+    left: 129px;
+}
+
+.card-topicos1 {
+    position: absolute;
+    width: 1028px;
+    height: 148px;
+    top: 498px;
+    left: 15px;
+    border: 1px solid #E7E7E7;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+}
+
+.galoa {
+    position: absolute;
+    width: 1086px;
+    height: 181px;
+    top: 1730px;
+    left: 234px;
+}

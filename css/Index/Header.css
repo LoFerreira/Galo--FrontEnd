@@ -1,0 +1,129 @@
+.Header {
+    position: absolute;
+    width: 1337px;
+    height: 68px;
+    left: 220px;
+    top: 0px;
+    background: #FDF1EB;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecalho {
+    position: absolute;
+    height: 16px;
+    left: 36px;
+    top: 5px;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #725C5C;
+}
+
+.cabecalho2 {
+    position: absolute;
+    height: 26px;
+    left: 36px;
+    top: 23px;
+    font-size: 22px;
+    line-height: 26px;
+    color: #725C5C;
+}
+
+.issn {
+    position: absolute;
+    height: 16px;
+    left: 36px;
+    top: 48px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #725C5C;
+}
+
+.idioma {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 70%;
+    top: 17px;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.globo {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+
+.linguagem {
+    position: absolute;
+    top: 8px;
+    left: 28px;
+    font-size: 14px;
+    color: #333333;
+}
+
+.dropdown {
+    position: absolute;
+    left: 75px;
+    top: 6px;
+}
+
+.bemvindo {
+    position: absolute;
+    width: 94%;
+    height: 18px;
+    top: 17px;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #333333;
+}
+
+.email {
+    position: absolute;
+    width: 94%;
+    height: 15px;
+    top: 36px;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+    color: #333333;
+}
+
+.avatar img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.avatar {
+    position: absolute;
+    left: 95%;
+    top: 7px;
+    border: 1px solid #F5F5F5;
+    box-sizing: border-box;
+}
+
+.notification {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    right: 20px;
+    top: 7px;
+    background: #F85959;
+    border-radius: 50%;
+}
+
+.number {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    right: 3px;
+    font-weight: bold;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #FFFF;
+}

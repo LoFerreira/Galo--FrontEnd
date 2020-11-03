@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.SideBar-Menu {
+    width: 220px;
+    height: 1930px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    font-family: 'Roboto', sans-serif;
+}
+
+.Evento {
+    height: 68px;
+    background: linear-gradient(180deg, #FFB354 0%, #EE7A3A 100%);
+}
+
+.Evento span {
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 23px;
+    margin-top: 15px;
+}
+
+.Logo img {
+    width: 218px;
+    height: 258px;
+    left: 0px;
+    top: 68px;
+}
+
+.apr {
+    width: 210px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+}
+
+.cmt {
+    width: 210px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+}
+
+.aut {
+    width: 210px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+}
+
+.ext {
+    width: 210px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+}
+
+.barra {
+    position: absolute;
+    left: 0%;
+    right: 99.70%;
+    top: 54.5%;
+    bottom: 40.4%;
+    background: linear-gradient(180deg, #FFB455 0%, #ED7839 100%);
+}
+
+.trb {
+    width: 195px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+    background-color: #FDF1EB;
+}
+
+.ctt {
+    width: 210px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: #725C5C;
+}
+
+.divisoria {
+    border: 1px solid #E7E7E7;
+}
