@@ -1,6 +1,8 @@
 # Teste para vaga dev Front-end Galoá (Chuva Inc.)
 
-## Projeto de implementação de HTML e CSS em um protótipo de uma tela preparado pela Galoá (Chuva Inc.)
+
+## Projeto de implementação de HTML e CSS em um protótipo de tela preparada pela Galoá (Chuva Inc.)
+
 
 ### Tela inicial:
 ![](/screenshots/screenshot1.png)
